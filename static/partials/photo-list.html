@@ -1,0 +1,7 @@
+<ul class="photo-list">
+  <li ng-repeat="photo in photos" class="thumbnail">
+    <a href="#/detail/{{ photo.id }}" class="thumb"><img ng-src="{{ photo.smallUrl }}"></a>
+    <a href="#/detail/{{ photo.id }}">{{photo.description}}</a>
+    <p>{{photo.date}}</p>
+  </li>
+</ul>

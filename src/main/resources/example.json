@@ -1,0 +1,26 @@
+[{
+  "id": "image0",
+  "smallUrl": "http://localhost/images/small/image0.jpg",
+  "description": "Image 0",
+  "date": "2013-05-01"
+}, {
+  "id": "image1",
+  "smallUrl": "http://localhost/images/small/image1.jpg",
+  "description": "Image 1",
+  "date": "2013-05-01"
+}, {
+  "id": "image2",
+  "smallUrl": "http://localhost/images/small/image2.jpg",
+  "description": "Image 2",
+  "date": "2013-05-01"
+}, {
+  "id": "image3",
+  "smallUrl": "http://localhost/images/small/image3.jpg",
+  "description": "Image 3",
+  "date": "2013-05-01"
+},{
+  "id": "image4",
+  "smallUrl": "http://localhost/images/small/image4.jpg",
+  "description": "Image 4",
+  "date": "2013-05-01"
+}]

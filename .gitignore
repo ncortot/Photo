@@ -1,0 +1,18 @@
+*.class
+.*.swp
+.*.swo
+
+# Build dirs #
+/target/
+/project/project/
+/project/target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA Files #
+/.idea
+*.iml
+
